@@ -23,5 +23,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="/m154-crm-persistence_leon_richli"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

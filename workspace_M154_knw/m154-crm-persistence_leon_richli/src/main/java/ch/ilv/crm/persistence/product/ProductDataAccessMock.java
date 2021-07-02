@@ -27,7 +27,6 @@ public class ProductDataAccessMock implements IProductDAO {
 	/**
 	 * @param product The product is the Data of an product
 	 */
-	@Override
 	public void insertProduct(ProductDTO product) {
 		if (product.getId() == -1) {
 			product.setId(products.size());
@@ -38,7 +37,6 @@ public class ProductDataAccessMock implements IProductDAO {
 	/**
 	 * @param productId The productId is the ID of the wanted Product
 	 */
-	@Override
 	public ProductDTO selectProduct(int productId) {
 		ProductDTO result = null;
 		
