@@ -47,4 +47,3 @@ INDEX VERSION 1.131+C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\.meta
 1456617568.index
 3161442216.index
 1306740904.index
-3907632922.index

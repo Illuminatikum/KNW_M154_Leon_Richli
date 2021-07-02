@@ -283,3 +283,23 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact crm:m154-crm-
 2021-07-02 11:08:40,923 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:m154-crm-web_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml.
 2021-07-02 11:08:40,986 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-persistence_leon_richli: crm:m154-crm-persistence_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-persistence_leon_richli/target/classes
 2021-07-02 11:08:40,986 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-business_leon_richli: crm:m154-crm-business_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-business_leon_richli/target/classes
+2021-07-02 11:08:41,047 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:08:41,047 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 11:08:41,048 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:08:41,048 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:17:15,287 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:17:15,287 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\main\resources
+2021-07-02 11:17:15,287 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:17:15,288 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\test\resources
+2021-07-02 11:17:16,554 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:17:16,555 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\main\resources
+2021-07-02 11:17:16,555 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:17:16,555 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\test\resources
+2021-07-02 11:17:24,218 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:17:24,219 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\main\resources
+2021-07-02 11:17:24,219 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:17:24,219 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\test\resources
+2021-07-02 11:17:27,266 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:17:27,266 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\main\resources
+2021-07-02 11:17:27,267 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:17:27,267 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\test\resources
