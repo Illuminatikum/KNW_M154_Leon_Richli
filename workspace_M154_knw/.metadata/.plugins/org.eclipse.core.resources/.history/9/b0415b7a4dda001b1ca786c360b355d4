@@ -1,0 +1,4 @@
+ch.ilv.crm.persistence.customer
+ch.ilv.crm.persistence.product
+ch.ilv.crm.persistence.product.dto
+ch.ilv.crm.persistence.test
