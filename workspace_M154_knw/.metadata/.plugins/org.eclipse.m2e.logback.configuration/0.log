@@ -6,3 +6,280 @@
 2020-08-05 13:36:58,800 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-06-17 15:17:16,704 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-07-01 11:14:50,881 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-07-02 10:47:05,842 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-07-02 10:49:36,177 [Worker-6: Launching New_configuration] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web
+2021-07-02 10:49:36,180 [Worker-6: Launching New_configuration] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web 
+2021-07-02 10:50:28,920 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2021-07-02 10:50:28,980 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2021-07-02 10:50:28,999 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2021-07-02 10:50:29,024 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2021-07-02 10:51:01,438 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\MORI\pom.xml
+2021-07-02 10:51:03,733 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MotoRichi:MORI:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\MORI\pom.xml.
+2021-07-02 10:51:04,557 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MORI/src/main/java
+2021-07-02 10:51:04,559 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MORI/src/test/java
+2021-07-02 10:51:04,600 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2021-07-02 10:51:05,111 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:51:05,111 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\MORI\src\main\resources
+2021-07-02 10:51:05,112 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:51:05,112 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\MORI\src\test\resources
+2021-07-02 10:51:05,411 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2021-07-02 10:51:05,451 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2021-07-02 10:51:05,454 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2021-07-02 10:51:05,459 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2021-07-02 10:51:06,128 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:51:06,128 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\MORI\src\main\resources
+2021-07-02 10:51:06,128 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:51:06,129 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\MORI\src\test\resources
+2021-07-02 10:52:15,310 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\pom.xml
+2021-07-02 10:52:15,538 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MotoRichi:m154-crm-business_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\pom.xml.
+2021-07-02 10:52:15,715 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /m154-crm-business_leon_richli/src/main/java
+2021-07-02 10:52:15,717 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /m154-crm-business_leon_richli/src/test/java
+2021-07-02 10:52:15,740 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-07-02 10:52:16,060 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:52:16,061 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 10:52:16,062 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:52:16,062 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 10:52:22,842 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:52:22,842 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 10:52:22,843 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:52:22,843 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 10:52:28,628 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:52:28,628 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 10:52:28,629 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:52:28,629 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 10:52:43,825 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:52:43,825 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 10:52:43,826 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:52:43,826 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 10:53:05,985 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:53:05,985 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 10:53:05,986 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:53:05,986 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 10:53:17,521 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:53:17,521 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 10:53:17,522 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:53:17,522 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 10:54:33,697 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\pom.xml
+2021-07-02 10:54:33,736 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MotoRichi:m154-crm-persistence_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\pom.xml.
+2021-07-02 10:54:33,772 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /m154-crm-persistence_leon_richli/src/main/java
+2021-07-02 10:54:33,776 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /m154-crm-persistence_leon_richli/src/test/java
+2021-07-02 10:54:33,800 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-07-02 10:54:34,065 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:54:34,066 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\main\resources
+2021-07-02 10:54:34,067 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:54:34,067 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\test\resources
+2021-07-02 10:54:57,150 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml
+2021-07-02 10:54:57,188 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MotoRichi:m154-crm-web_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml.
+2021-07-02 10:54:57,208 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /m154-crm-web_leon_richli/src/main/java
+2021-07-02 10:54:57,211 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /m154-crm-web_leon_richli/src/test/java
+2021-07-02 10:54:57,232 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-07-02 10:54:57,511 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:54:57,512 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 10:54:57,513 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:54:57,513 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 10:55:04,279 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:55:04,279 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 10:55:04,280 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:55:04,281 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 10:55:05,732 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:55:05,733 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 10:55:05,733 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:55:05,733 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 10:55:43,715 [Worker-6: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:55:43,715 [Worker-6: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 10:55:43,716 [Worker-6: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:55:43,716 [Worker-6: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 10:55:43,750 [Worker-6: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:55:43,750 [Worker-6: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 10:55:43,750 [Worker-6: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:55:43,750 [Worker-6: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 10:56:09,707 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crm-front:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml.
+2021-07-02 10:56:10,243 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:56:10,243 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 10:56:10,244 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:56:10,244 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 10:56:10,920 [Worker-6: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for crm:crm-back:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact crm:crm-back:jar:sources:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-07-02 10:56:11,407 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:56:11,407 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 10:56:11,408 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:56:11,409 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 10:57:47,668 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crm-back:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\pom.xml.
+2021-07-02 10:57:47,741 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crm-front:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml.
+2021-07-02 10:57:47,789 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-business_leon_richli: crm:crm-back:0.0.1-SNAPSHOT with classifier  to /m154-crm-business_leon_richli/target/classes
+2021-07-02 10:57:47,897 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:57:47,898 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 10:57:47,898 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:57:47,898 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 10:57:48,179 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:57:48,179 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 10:57:48,181 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:57:48,181 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 10:57:48,299 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-business_leon_richli: crm:crm-back:0.0.1-SNAPSHOT with classifier  to /m154-crm-business_leon_richli/target/classes
+2021-07-02 10:57:48,308 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:57:48,308 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 10:57:48,309 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 10:57:48,309 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:00:03,742 [Worker-10: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-web_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli
+2021-07-02 11:00:03,742 [Worker-10: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-web_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-07-02 11:00:06,014 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:00:06,014 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 11:00:06,015 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:00:06,015 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:01:21,556 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:m154-crm-web_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml.
+2021-07-02 11:01:21,632 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-business_leon_richli: crm:crm-back:0.0.1-SNAPSHOT with classifier  to /m154-crm-business_leon_richli/target/classes
+2021-07-02 11:01:21,696 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:01:21,697 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 11:01:21,697 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:01:21,697 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:01:51,212 [Worker-8: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for crm:m154-crm-persistence_leon_richli:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2021-07-02 11:01:51,473 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:m154-crm-web_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml.
+2021-07-02 11:01:51,510 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for crm:m154-crm-persistence_leon_richli:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2021-07-02 11:01:51,607 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:01:51,607 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 11:01:51,608 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:01:51,608 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:01:52,669 [Worker-5: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for crm:m154-crm-persistence_leon_richli:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2021-07-02 11:01:52,706 [Worker-5: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for crm:m154-crm-persistence_leon_richli:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact crm:m154-crm-persistence_leon_richli:jar:sources:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-07-02 11:02:51,363 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:02:51,363 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 11:02:51,364 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:02:51,364 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:03:50,486 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crm-back:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\pom.xml.
+2021-07-02 11:03:50,567 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:03:50,567 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\main\resources
+2021-07-02 11:03:50,567 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:03:50,568 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\test\resources
+2021-07-02 11:03:51,730 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:03:51,731 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\main\resources
+2021-07-02 11:03:51,731 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:03:51,731 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\test\resources
+2021-07-02 11:04:06,472 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:m154-crm-web_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml.
+2021-07-02 11:04:06,507 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for crm:m154-crm-persistence_leon_richli:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2021-07-02 11:04:06,605 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:04:06,605 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 11:04:06,605 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:04:06,605 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:04:07,667 [Worker-8: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for crm:m154-crm-persistence_leon_richli:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2021-07-02 11:04:07,703 [Worker-8: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for crm:m154-crm-persistence_leon_richli:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact crm:m154-crm-persistence_leon_richli:jar:javadoc:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-07-02 11:04:36,006 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:m154-crm-business_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\pom.xml.
+2021-07-02 11:04:36,082 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:04:36,082 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 11:04:36,082 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:04:36,082 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 11:04:59,147 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:m154-crm-web_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml.
+2021-07-02 11:04:59,182 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for crm:m154-crm-persistence_leon_richli:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2021-07-02 11:04:59,213 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-business_leon_richli: crm:m154-crm-business_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-business_leon_richli/target/classes
+2021-07-02 11:04:59,275 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:04:59,276 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 11:04:59,276 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:04:59,276 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:05:17,541 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:m154-crm-persistence_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\pom.xml.
+2021-07-02 11:05:17,603 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:m154-crm-web_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml.
+2021-07-02 11:05:17,644 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-persistence_leon_richli: crm:m154-crm-persistence_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-persistence_leon_richli/target/classes
+2021-07-02 11:05:17,644 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-business_leon_richli: crm:m154-crm-business_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-business_leon_richli/target/classes
+2021-07-02 11:05:17,738 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:05:17,738 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\main\resources
+2021-07-02 11:05:17,739 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:05:17,739 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\test\resources
+2021-07-02 11:05:17,827 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-persistence_leon_richli: crm:m154-crm-persistence_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-persistence_leon_richli/target/classes
+2021-07-02 11:05:17,827 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-business_leon_richli: crm:m154-crm-business_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-business_leon_richli/target/classes
+2021-07-02 11:05:17,834 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:05:17,834 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 11:05:17,834 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:05:17,834 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:05:25,302 [Worker-8: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-business_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli
+2021-07-02 11:05:25,302 [Worker-8: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-business_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-07-02 11:05:27,420 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:05:27,420 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 11:05:27,421 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:05:27,421 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 11:06:24,321 [Worker-0: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-persistence_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli
+2021-07-02 11:06:24,321 [Worker-0: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-persistence_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-07-02 11:06:27,657 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:06:27,657 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\main\resources
+2021-07-02 11:06:27,658 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:06:27,658 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-persistence_leon_richli\src\test\resources
+2021-07-02 11:07:12,422 [Worker-5: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-business_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli
+2021-07-02 11:07:12,423 [Worker-5: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-business_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-07-02 11:07:14,280 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:07:14,280 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\main\resources
+2021-07-02 11:07:14,281 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:07:14,281 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-business_leon_richli\src\test\resources
+2021-07-02 11:07:24,944 [Worker-17: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-web_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli
+2021-07-02 11:07:24,944 [Worker-17: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-web_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-07-02 11:07:31,230 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:07:31,231 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 11:07:31,233 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:07:31,233 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:08:25,618 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:m154-crm-web_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml.
+2021-07-02 11:08:25,687 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-persistence_leon_richli: crm:m154-crm-persistence_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-persistence_leon_richli/target/classes
+2021-07-02 11:08:25,687 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-business_leon_richli: crm:m154-crm-business_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-business_leon_richli/target/classes
+2021-07-02 11:08:25,749 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:08:25,749 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 11:08:25,750 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:08:25,750 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:08:33,667 [Worker-17: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-web_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli
+2021-07-02 11:08:33,667 [Worker-17: Launching Executing install in C__Users_Admin_KNW_M154_Leon_Richli_workspace_M154_knw_m154-crm-web_leon_richli] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-07-02 11:08:35,683 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-persistence_leon_richli: crm:m154-crm-persistence_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-persistence_leon_richli/target/classes
+2021-07-02 11:08:35,684 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-business_leon_richli: crm:m154-crm-business_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-business_leon_richli/target/classes
+2021-07-02 11:08:35,690 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:08:35,690 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\main\resources
+2021-07-02 11:08:35,690 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-02 11:08:35,690 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\src\test\resources
+2021-07-02 11:08:40,923 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:m154-crm-web_leon_richli:0.0.1-SNAPSHOT @ C:\Users\Admin\KNW_M154_Leon_Richli\workspace_M154_knw\m154-crm-web_leon_richli\pom.xml.
+2021-07-02 11:08:40,986 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-persistence_leon_richli: crm:m154-crm-persistence_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-persistence_leon_richli/target/classes
+2021-07-02 11:08:40,986 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-business_leon_richli: crm:m154-crm-business_leon_richli:0.0.1-SNAPSHOT with classifier  to /m154-crm-business_leon_richli/target/classes
